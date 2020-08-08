@@ -4,7 +4,7 @@ export default {
     {
         return <div>
             11fdfdffsdfsffff
-            fhdsjf
+            fhdsjfrerewr
         </div>
     }
 }
