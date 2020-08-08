@@ -3,7 +3,7 @@ export default {
     render()
     {
         return <div>
-            11
+            11fsdfsf
         </div>
     }
 }
